@@ -58,3 +58,4 @@ app.get('/', function(req, res){
 })
 
 app.listen(3333);
+console.log("Well done! Now open: http://localhost:3333/")

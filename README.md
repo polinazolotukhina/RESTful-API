@@ -6,7 +6,7 @@
 
 Clone : 
 ```javascript
-$ git clone https://github.com/polinazolotukhina/-RESTful-API-.git
+$ git clone https://github.com/polinazolotukhina/RESTful-API.git
 ```
 
 
@@ -14,7 +14,7 @@ $ git clone https://github.com/polinazolotukhina/-RESTful-API-.git
 
 Go to the folder:
 ```javascript
-$ cd -RESTful-API-
+$ cd RESTful-API
 ```
 
 
